@@ -1,0 +1,14 @@
+{
+  "name": "kikclient",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@xmpp/xml": "^0.9.1",
+    "dotenv": "^8.2.0",
+    "ltx": "^2.9.2",
+    "node-rsa": "^1.0.7",
+    "uuid": "^3.3.3"
+  },
+  "devDependencies": {}
+}
